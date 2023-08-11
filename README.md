@@ -49,5 +49,7 @@ ax.legend(handles=[handles[0]], labels=['Weather Stations'], loc='upper right', 
 ax.set_title("Lusatia Administrative Boundary with Weather Stations (WGS84)")
 plt.tight_layout()
 plt.show()
+```
 
+![](Lusatia_Boundary_with_Weather_Stations.png)<!-- -->
 
